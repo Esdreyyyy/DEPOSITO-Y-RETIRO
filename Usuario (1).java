@@ -6,7 +6,7 @@ package cuenta;
 
 /**
  *
- * @author alumno
+ * @author Esdrey Moguel Diaz
  */
 public class Usuario {
      private String nombre;
