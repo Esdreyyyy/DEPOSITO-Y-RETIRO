@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author alumno
+ * @author Esdrey Moguel Diaz
  */
 public class Cuenta {
 
